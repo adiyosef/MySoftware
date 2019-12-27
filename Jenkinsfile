@@ -9,8 +9,8 @@ agent any
         }
         stage('build') {
             steps {
-                sh 'click.py'
-                sh 'welcome.py'
+                sh 'python click.py'
+                sh 'python welcome.py'
             }
        
         }
