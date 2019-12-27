@@ -1,0 +1,2 @@
+welcome()
+	print("New Screen")
