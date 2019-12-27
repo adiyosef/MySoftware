@@ -1,1 +1,1 @@
-trigger jenkins second time
+trigger jenkins 30 min
